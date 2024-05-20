@@ -1,5 +1,5 @@
 # Invoke-LambdaFunction-with-another-LambdaFunction
-## What did I use?
+## What will we be using?
 1.IAM Role
 
 2.Lambda Functions
