@@ -1,8 +1,10 @@
 # Invoke-LambdaFunction-with-another-LambdaFunction
 ## What did I use?
-1.Lambda Functions
+1.IAM Role
 
-2.Python 
+2.Lambda Functions
+
+3.Python 
 
 ## Set Up Steps
 
